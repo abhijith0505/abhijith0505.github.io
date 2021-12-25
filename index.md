@@ -5,8 +5,11 @@
 layout: page
 ---
 
+![Image](assets/logo.jpg){:style="float: left; margin-right: 10px; margin-top: 10px; height: 250px"}
+
 Hi, I'm a computer nerd and I build machine learning systems at Glance. I function in a full-stack (ML) capacity where I not only build ML models, but also work on real-time & scalable systems, and the infrastructure on which these models are productionized.
 
 I've primarily focused on NLP and Computer Vision techniques to solve Content Creation and Generation tasks at scale. Currently focussing on Recommendation Systems in an online learning and online prediction environment.
 
 Outside ML, I work with distributed computing, streaming and real-time systems for MLOps and ML engineering.
+
