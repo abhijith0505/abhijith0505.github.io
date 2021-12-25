@@ -18,12 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+author:
+  name: Abhijith C
+  email: "abhijith4m0505@gmail.com"
+
 title: abhijith0505
 email: abhijith4m0505@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Abhijith is a Data Scientist in the AI Team at Glance. He focusses on building ML solutions and deploying them at scale, functioning in a full-stack capacity. This is his personal website where he writes about various ML-ey things.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://abhijith0505.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -50,8 +52,10 @@ plugins:
 whitelist:
   - jekyll-redirect-from
 
-disqus:
-  shortname: personalblog-12
+# disqus:
+#   shortname: personalblog-12
+
+# google_analytics: UA-NNNNNNNN-N
 
 # Exclude from processing.
 # The following items will not be processed, by default.
