@@ -36,6 +36,7 @@ header_pages:
 # Build settings
 remote_theme: jekyll/minima@3cdd14d
 minima:
+  skin: dark
   social_links:
     twitter: abhijith0505
     github: abhijith0505
