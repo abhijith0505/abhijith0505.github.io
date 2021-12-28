@@ -6,8 +6,8 @@ layout: page
 ---
 <style>
     .circular_image {
-    width: 300px;
-    height: 300px;
+    width: 320px;
+    height: 320px;
     border-radius: 50%;
     overflow: hidden;
     background-color: blue;
