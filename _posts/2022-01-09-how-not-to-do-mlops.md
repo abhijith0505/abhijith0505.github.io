@@ -39,7 +39,7 @@ Machine learning research is driven by the empirical verification and validation
 
 ### Bad Credit Assignment
 
-This antipattern talks about the failure to correctly identify the source of performance gains. While your model architecture and those super tuned hyperparameters will boost your performance, failure to attribute (possible) gains to other tasks like clever problem formulations, certain preprocessing steps, etc. could lead to issues in the future.
+This antipattern talks about the failure to correctly identify the source of performance gains. While your model architecture and those super tuned hyper-parameters will boost your performance, failure to attribute (possible) gains to other tasks like clever problem formulations, certain preprocessing steps, etc. could lead to issues in the future.
 
 Extending the previously mentioned data drift dashboard, and using the experiment tracking tools, one should be able to define inferences from every model deployed be able to appropriately attribute.
 
@@ -61,7 +61,7 @@ Predictions are important, but the uncertainty in the predictions could be more 
 
 ### And finally, Data Crisis as a Service
 
-Back to the concept of Feature (data) store. Every pipeline that produces your data should be documented and it’s details communicated. An effective way to do this is by building a data catalog that is in sync with the feature store. This ensures that new pipelines can be easily created and scheduled adhering to the pre-defined standards of the feature store, and more importantly sets up processes that enable replication of these pipelines whenever required. This also helps to track data lineage.
+Back to the concept of Feature (data) store. Every pipeline that produces your data should be documented and it’s details communicated. An effective way to do this is by building a data catalog that is in sync with the feature store. This ensures that new pipelines can be easily created and scheduled adhering to the predefined standards of the feature store, and more importantly sets up processes that enable replication of these pipelines whenever required. This also helps to track data lineage.
 
 ### Authors’ recommendations
 
