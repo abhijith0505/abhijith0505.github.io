@@ -41,7 +41,7 @@ Machine learning research is driven by the empirical verification and validation
 
 This antipattern talks about the failure to correctly identify the source of performance gains. While your model architecture and those super tuned hyper-parameters will boost your performance, failure to attribute (possible) gains to other tasks like clever problem formulations, certain preprocessing steps, etc. could lead to issues in the future.
 
-Extending the previously mentioned data drift dashboard, and using the experiment tracking tools, one should be able to define inferences from every model deployed be able to appropriately attribute.
+Extending the previously mentioned data drift dashboard, and using the experiment tracking tools, one should be able to define inferences from every model deployed to be able to appropriately attribute.
 
 ### Grade-your-own-exam
 
@@ -53,7 +53,7 @@ One way to tackle to this is by investing in Feature Stores. These can be indepe
 
 Many of us adopt this mentality when it comes to model training. This antipattern talks about concept drift and the plausible need to set up model re-training jobs and pipelines. There has been work around Bayesian modelling for detection and adaptation of concept drifts.
 
-The aforementioned inference dashboards can help catch these drifts, simply by manual inspection. This could be automated too, of course.
+The aforementioned inference dashboards can help catch these drifts, simply by manual inspection. This too could be automated, of course.
 
 ### Communicate with Ambivalence
 
@@ -72,5 +72,5 @@ To tackle them, some of their specific recommendations are:
 - Use these antipatterns to set up processes to avoid these mistakes
 - Use assertions to track data quality
 - Document data lineage and create ‘audit trails’
-- Use ensembles and fallback systems to the event of errors
+- Use ensembles and fallback systems in the event of errors
 - Ensure human-in-the-loop operational capability at multiple levels
