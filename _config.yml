@@ -56,7 +56,7 @@ whitelist:
 # disqus:
 #   shortname: personalblog-12
 
-# google_analytics: UA-NNNNNNNN-N
+google_analytics: G-SCMEX0KCSL
 
 # Exclude from processing.
 # The following items will not be processed, by default.
