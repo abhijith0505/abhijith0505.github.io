@@ -2,7 +2,7 @@
 layout: post
 title:  "How (not) to do MLOps"
 date:   2022-01-09 22:00:32 +0530
-categories: learning mlops mlengineering
+categories: blog
 ---
 
 My company - well, my team - organizes what is called the Paper Reading Club. The idea is for each of us to present a paper to the entire team that we find fascinating and relevant to what we do at work. So for the paper presentation meet that happened a couple of weeks ago, I decided to present [“Using AntiPatterns to avoid MLOps Mistakes”](https://arxiv.org/abs/2107.00079).
