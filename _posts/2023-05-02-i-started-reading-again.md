@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I started reading again..."
+title: "I started reading again"
 date: 2023-05-02 02:00:32 +0530
 categories: blog
 ---
