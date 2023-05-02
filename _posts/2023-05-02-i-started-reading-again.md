@@ -9,7 +9,7 @@ categories: blog
 
 As a 12 year old I started with J.K Rowling’s **_[Harry Potter and the Philosopher's Stone](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone)._** Soon I went into detective mode with [The Famous Five](https://en.wikipedia.org/wiki/The_Famous_Five)s and [The Secret Seven](https://en.wikipedia.org/wiki/The_Secret_Seven)s. And ended the detective fever with the entire collection of [Sherlock Holmes](https://en.wikipedia.org/wiki/Sherlock_Holmes). Soon it was the thriller craze that got to me with a LOT of Robert Ludlum books, and later by Eric Van Lustbader. Oh man, those books _hit_ different. [The Bourne series](<https://en.wikipedia.org/wiki/Bourne_(novel_series)>) was my favourite at that time. David Baldacci was another favourite author who wrote a lot of cool Secret Service and CIA stuff. A bunch of John Grisham and Dan Brown books too made the list - [Da Vinci Code](https://en.wikipedia.org/wiki/The_Da_Vinci_Code), [Angels and Demons](https://en.wikipedia.org/wiki/Angels_%26_Demons) and the likes. I’ve also indulged myself in a bit of the wild west by Louis L'Amour and some more classics like [1984](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) here and there.
 
-<img src="/assets/2023-05-02/image1.jpg" width="500">
+<img src="/assets/2023-05-02/image1.jpg" width="300">
 
 This is what my collection used to look like (that’s just one layer that you can see, another’s hidden in the back and I’m too scared to get there right now).
 
@@ -31,7 +31,7 @@ I started my [online masters with Georgia Tech](https://omscs.gatech.edu/) and t
 
 The “Back to Office” (or B2O, how they liked to call it) program kicked in where we were asked to resume work from office. This meant travelling to office, which is in the heart of the traffic hell hole the city is known for. I used to ride my two-wheeler, but I tried out something different for a change and started driving my car to work (I cannot tolerate the heat, I needed the A/C).
 
-<img src="/assets/2023-05-02/image2.jpg" width="500">
+<img src="/assets/2023-05-02/image2.jpg" width="300">
 
 The commute to and from office was a solid 7 hours per week (worst case) and I decided to spend this time wisely. I wasn’t too optimistic on picking up things like audio books while driving, but I experimented with some podcasts. The fun ones like [Lifekit](https://www.npr.org/lifekit), [Stuff you Should Know](https://open.spotify.com/show/0ofXAdFIQQRsCYj9754UFx), [Lex Fridman](https://lexfridman.com/) podcasts and a few others kept me occupied for a few weeks. I was really getting into the ‘listening while driving’ mode. It was working!
 
