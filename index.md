@@ -15,7 +15,7 @@ I read, ([a lot](https://abhijithc.com/blog/2023/05/01/i-started-reading-again.h
 
 I travel, I had a dream come true by watching the [FIFA WC](https://blog.badpallod.com/my-trip-to-qatar-for-fifa-wc/) at Qatar. Yet to figure out how to tell people I travel.
 
-I build machine learning systems at **[Glance](https://www.glance.com/)**. I function in a full-stack (ML) capacity. I build ML models, work on real-time & scalable systems, the infrastructure, and lead a team.
+I build machine learning systems at [Glance](https://www.glance.com/). I function in a full-stack (ML) capacity. I build ML models, work on real-time & scalable systems, the infrastructure, and lead a team.
 
 Currently working on Recommendation Systems in an online learning and online prediction environment, with a toe dipped into building edge ml capabilities. Not averse to software development (UI dev, perhaps). I can code.
 
