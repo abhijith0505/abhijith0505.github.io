@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "KBAI (CS7637) - An OMSCS Review"
-date:   2022-05-22o 02:00:32 +0530
+date:   2022-05-22 02:00:32 +0530
 categories: blog
 ---
 
