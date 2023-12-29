@@ -25,6 +25,6 @@ Now, here's the unexpected perk of this reading saga. Becoming well-acquainted w
 
 Lately, I've stumbled upon a delightful new habit. After work, I stroll into a cozy café, grab a cup of joe and read away. A friend joins me and together we explore new coffee blends and concoctions.
 
-My next challenge or rather something to look forward to is how I maintain my reading streak (keeping the retaining thought in mind) and also figuring out how I can plug in textbooks into this mix. I'm an ML Engineer and I use textbooks and papers to keep me updated. That's something I've intentially skipped in this sequel since that habit needs more brewing.
+My next challenge or rather something to look forward to is how I maintain my reading streak (keeping the retaining thought in mind) and also figuring out how I can plug in textbooks into this mix. I'm an ML Engineer and I use textbooks and papers to keep me updated. That's something I've intentionally skipped in this sequel since that habit needs more brewing.
 
 As I wrap up this chapter of my bookish escapades, I’m raising a metaphorical glass to the laughter, the revelations, and the pure joy books bring. 📚☕️✨
