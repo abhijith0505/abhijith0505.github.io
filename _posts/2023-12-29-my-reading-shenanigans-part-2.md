@@ -5,13 +5,13 @@ date: 2023-12-29 02:00:32 +0530
 categories: blog
 ---
 
-In the (first installment)[https://abhijithc.com/blog/2023/05/01/i-started-reading-again.html] of my reading saga, I spilled the beans on how I resurrected my reading habit, danced through genres, and discovered the art of balancing fiction and non-fiction.  I'm back with the sequel – think of it as the Empire Strikes Back, but with fewer lightsabers and more books, with some focus on what went right and what was troubling.
+In the [first installment](https://abhijithc.com/blog/2023/05/01/i-started-reading-again.html) of my reading saga, I spilled the beans on how I resurrected my reading habit, danced through genres, and discovered the art of balancing fiction and non-fiction.  I'm back with the sequel – think of it as the Empire Strikes Back, but with fewer lightsabers and more books, with some focus on what went right and what was troubling.
 
 Revisiting the Grand Plan - The core of my reading strategy involved compartmentalizing my reading based on context and location. Weekdays at home meant non-fiction tête-à-têtes, and my commute became a road trip with audiobooks. This structured approach turned out to be a game-changer - I completed my goal of reading 20 books this year.
 
 <img src="/assets/2023-12-29/challenge.png" width="300">
 
-Enter Goodreads, where reading feels like a social sport – the less UX-ey Tinder for book lovers. Goodreads played a pivotal role in this journey. I connected with a bunch of friends and started sharing and reviewing book recommendations. This became a weekly habit. My to-be-read list is now longer than my grocery list. (Let’s (connect?)[https://www.goodreads.com/user/show/159213582-abhijith-c])
+Enter Goodreads, where reading feels like a social sport – the less UX-ey Tinder for book lovers. Goodreads played a pivotal role in this journey. I connected with a bunch of friends and started sharing and reviewing book recommendations. This became a weekly habit. My to-be-read list is now longer than my grocery list. [Let’s (connect?](https://www.goodreads.com/user/show/159213582-abhijith-c))
 
 A major trouble I faced with my literary road trips was the inability to take notes or highlight key passages while driving (traffic is bad, but not that bad to allow me to do this). To tackle this, I experimented with finding digital copies or summaries online and creating personal summaries for me in a book. This two-fold solution not only refreshed my memory but also provided the benefits of note-taking for future reference. But to be honest, this is added friction, yeah.
 
