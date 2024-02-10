@@ -31,11 +31,11 @@ double_number = double_number.asNondeterministic()
 
 If you look at the Optimized Logical Plan for the task, you can see that wrapper(user_id#81) is invoked multiple times (for pythonUDF#1115, #1116, #1117 & #1118). 
 
-<img src="/assets/2024-02-10/1.png" width="300">
+<img src="/assets/2024-02-10/1.png" width="600">
 
 After the change, the Spark plan changed to something more desirable. People were happy that the plan looks much better and I’ve convinced them it was magic.
 
-<img src="/assets/2024-02-10/2.png" width="300">
+<img src="/assets/2024-02-10/2.png" width="600">
 
 
 Alongside UDF optimization, attention should also be paid to optimizing Spark queries and minimizing unnecessary computations. These complementary strategies work in tandem to enhance overall performance and efficiency within Spark workflows. Knowing when to leverage non-deterministic UDFs is crucial for optimizing Spark performance effectively. If your UDFs involve randomness or external state, transitioning to a non-deterministic paradigm can yield substantial improvements in computational efficiency. 
