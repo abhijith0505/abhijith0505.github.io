@@ -15,8 +15,10 @@ I read, ([a lot](https://abhijithc.com/blog/2023/05/01/i-started-reading-again.h
 
 I travel, I had a dream come true by watching the [FIFA WC](https://blog.badpallod.com/my-trip-to-qatar-for-fifa-wc/) at Qatar. Yet to figure out how to tell people I travel.
 
-I build machine learning systems at [Glance](https://www.glance.com/). I function in a full-stack (ML) capacity. I build ML models, work on real-time & scalable systems, the infrastructure, and lead a team.
+I joined [Target](https://india.target.com/)'s Data Sciences team as a Lead AI Engineer to build real-time ML systems for Offers Personalization. 
 
-Currently working on Recommendation Systems in an online learning and online prediction environment, with a toe dipped into building edge ml capabilities. Not averse to software development (UI dev, perhaps). I can code.
+I previously built real-time ML systems at [Glance](https://www.glance.com/) for Feed Recommendations at scale (~100Mn+ DAU), involved with classical ML and Bandit based approaches, with batch and even-driven architectures.
 
-Elsewhere, I am an [online Master's student at Georgia Tech](https://omscs.gatech.edu/) specializing in machine learning.
+I function in a full-stack capacity (Data Science & Data Engineering) where I build ML models, and work on scalable systems and infrastructure. This involves working with distributed computing, streaming and real-time systems for MLOps and ML engineering.
+
+Thinking about Masters or your next step in your career? I've been getting great questions on OMSCS, Machine Learning Engineering, and in general about career paths! To better connect and share my knowledge, I'm now on Topmate offering mentorship and guidance. [Let's chat](https://topmate.io/abhijith0505)! 🚀
