@@ -25,13 +25,14 @@ author:
 title: abhijith0505
 email: abhijith4m0505@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Abhijith (@abhijith0505) is a Data Scientist in the AI Team at Glance. He focusses on building ML solutions and deploying them at scale, functioning in a full-stack capacity. This is his personal website where he writes about various ML-ey things.  
+  Abhijith (@abhijith0505) is an AI Engineer in the Data Sciences Team at Target. He focusses on building real-time ML solutions and deploying them at scale, functioning in a full-stack capacity. This is his personal website where he writes about various ML-ey things.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://abhijithc.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 header_pages:
   - blog.md
   - scholar.md
+  - resume.md
 
 # Build settings
 remote_theme: jekyll/minima@3cdd14d
