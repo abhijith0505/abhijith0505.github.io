@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My FAQ-like OMSCS Guide"
+title:  "Considering OMSCS?"
 date:   2025-03-08 02:00:32 +0530
 categories: blog
 ---
