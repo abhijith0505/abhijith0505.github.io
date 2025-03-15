@@ -122,7 +122,7 @@ Compared to other top CS master’s programs, OMSCS has a much higher acceptance
 
 ## **Career Impact of OMSCS**
 
-- **Recognized in the industry** – Many grads work at Google, Amazon, Microsoft, and other top tech firms..
+- **Recognized in the industry** – Many grads work at Google, Amazon, Microsoft, and other top tech firms.
 - **Respected by employers** – Completing the program while working demonstrates discipline and technical expertise.
 - **Meets MS requirements for roles in AI, ML, and research-heavy engineering.**.
 
