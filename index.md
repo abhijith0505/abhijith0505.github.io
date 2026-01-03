@@ -7,7 +7,7 @@ layout: page
 
 Minimalist.
 
-Filter Coffee > French Pressed > 'Tapri Coffee' from a vending machine at work >> Anything else. ☕
+Black Coffee > Filter Coffee > French Pressed ☕
 
 "Simple, yet sophisticated" - according to a colleague and a friend.
 
@@ -20,5 +20,3 @@ I joined [Target](https://india.target.com/)'s Data Sciences team as a Lead AI E
 I previously built real-time ML systems at [Glance](https://www.glance.com/) for Feed Recommendations at scale (~100Mn+ DAU), involved with classical ML and Bandit based approaches, with batch and even-driven architectures.
 
 I function in a full-stack capacity (Data Science & Data Engineering) where I build ML models, and work on scalable systems and infrastructure. This involves working with distributed computing, streaming and real-time systems for MLOps and ML engineering.
-
-Thinking about Masters or your next step in your career? I've been getting great questions on OMSCS, Machine Learning Engineering, and in general about career paths! To better connect and share my knowledge, I'm now on Topmate offering mentorship and guidance. [Let's chat](https://topmate.io/abhijith0505)! 🚀
