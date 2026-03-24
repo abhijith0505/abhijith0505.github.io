@@ -23,26 +23,98 @@
 			{%- for path in page_paths -%}
 			  {%- assign my_page = site.pages | where: "path", path | first -%}
 			  {%- if my_page.title -%}
-			  <a class="page-link" href="{{ my_page.url | relative_url }}"><strong>{{ my_page.title | escape }}</strong></a>
+			  <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
 			  {%- endif -%}
 			{%- endfor -%}
+			<button class="theme-toggle" onclick="handleThemeToggle()" aria-label="Toggle theme">light</button>
 		  </div>
 		</nav>
 	  {%- endif -%}
 	</div>
 
-	<script>
-		var cursor = true;
-		var speed = 500;       
-		setInterval(() => {
-		  if(cursor) {
-			document.getElementById('cursor').style.opacity = 0;
-			cursor = false;
-		  }else {
-			document.getElementById('cursor').style.opacity = 1;
-			cursor = true;
-		  }
-		}, speed);
+	<style>
+		@keyframes blink {
+			0%, 100% { opacity: 1; }
+			50% { opacity: 0; }
+		}
+		#cursor {
+			animation: blink 1s step-end infinite;
+		}
+		.theme-toggle {
+			background: none;
+			border: none;
+			cursor: pointer;
+			font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", monospace;
+			font-size: 0.85rem;
+			letter-spacing: 1px;
+			color: inherit;
+			padding: 0.2rem 0.4rem;
+			margin-left: 0.5rem;
+			transition: color 0.2s ease;
+			vertical-align: middle;
+		}
+		.theme-toggle:hover {
+			color: var(--text-primary);
+		}
+		.theme-toast {
+			position: fixed;
+			bottom: 2rem;
+			left: 50%;
+			transform: translateX(-50%) translateY(20px);
+			background: #1a1a1a;
+			color: #d4d4d4;
+			border: 1px solid rgba(255, 255, 255, 0.1);
+			padding: 0.75rem 1.5rem;
+			border-radius: 4px;
+			font-size: 0.85rem;
+			font-family: "SF Mono", "Fira Code", monospace;
+			opacity: 0;
+			transition: opacity 0.3s ease, transform 0.3s ease;
+			pointer-events: none;
+			z-index: 1000;
+			white-space: nowrap;
+		}
+		.theme-toast.show {
+			opacity: 1;
+			transform: translateX(-50%) translateY(0);
+		}
+	</style>
 
+	<div id="theme-toast" class="theme-toast"></div>
+
+	<script>
+		var quips = [
+			"nice try. darkness prevails.",
+			"light mode? we don't do that here.",
+			"my eyes said no.",
+			"you really thought that would work?",
+			"404: light theme not found.",
+			"dark mode is not a preference, it's a lifestyle.",
+			"i admire your optimism.",
+			"the dark side has better contrast ratios.",
+			"light mode is just mass surveillance with extra steps.",
+			"no. — management",
+			"have you tried turning your screen off instead?",
+			"this button is purely decorative.",
+			"imagine burning 6500K into your retinas voluntarily.",
+			"rejected. filed under: bad ideas.",
+			"even my terminal runs dark.",
+			"you wouldn't put light mode on vim, would you?",
+			"this is a dark-mode-only establishment.",
+			"your request has been noted and ignored.",
+			"some things are better left in the dark.",
+			"we ran out of photons. sorry.",
+			"bright screens are for airports and hospitals.",
+			"the sun is a light theme. look how it treats people.",
+			"overruled."
+		];
+
+		function handleThemeToggle() {
+			var toast = document.getElementById('theme-toast');
+			var msg = quips[Math.floor(Math.random() * quips.length)];
+			toast.textContent = msg;
+			toast.classList.add('show');
+			setTimeout(function() { toast.classList.remove('show'); }, 3000);
+		}
 	</script>
   </header>

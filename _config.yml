@@ -25,7 +25,7 @@ author:
 title: abhijith0505
 email: abhijith4m0505@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Abhijith (@abhijith0505) is an AI Engineer in the Data Sciences Team at Target. He focusses on building real-time ML solutions and deploying them at scale, functioning in a full-stack capacity. This is his personal website where he writes about various ML-ey things.
+  Abhijith (@abhijith0505) is a Staff ML Engineer at Target, driving architecture and standardization of large-scale personalization systems and ML platforms. This is his personal website where he writes about ML systems, platform design, and scaling ML in production.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://abhijithc.com" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -35,21 +35,29 @@ header_pages:
   - resume.md
 
 # Build settings
-remote_theme: jekyll/minima@3cdd14d
+theme: minima
+# remote_theme: jekyll/minima@3cdd14d (used automatically by GitHub Pages)
 minima:
   skin: dark
   social_links:
     twitter: abhijith0505
     github: abhijith0505
-    # stackoverflow: "abhijith0505"
     facebook: abhijith0505
     instagram: abhijith0505
     linkedin: abhijith0505
     telegram: abhijith0505
 
+# Minima 2.5.x social link keys (for local dev)
+twitter_username: abhijith0505
+github_username: abhijith0505
+instagram_username: abhijith0505
+linkedin_username: abhijith0505
+
 plugins:
   - jekyll-feed 
   - jekyll-redirect-from
+
+show_excerpts: true
 
 whitelist:
   - jekyll-redirect-from
